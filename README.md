@@ -1,4 +1,4 @@
-Hello everybody
+Hello everybody,
 I'm Fowluhh. Or you can call me Dawn!
 
 I code in Web-based languages, Python, and sometimes Rust.
